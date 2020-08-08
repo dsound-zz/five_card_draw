@@ -1,9 +1,9 @@
 # five_card_draw
 
-
-1) Enter 'irb' or 'pry'
-2) load "cards.rb" 
-3) game = Game.new
-4) game.play 
+1) bundler or bundle install 
+2) Enter 'irb' or 'pry'
+3) load "cards.rb" 
+4) game = Game.new
+5) game.play 
 
 # Enjoy!!
